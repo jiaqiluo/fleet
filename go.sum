@@ -446,8 +446,8 @@ github.com/go-openapi/jsonreference v0.20.0 h1:MYlu0sBgChmCfJxxUKZ8g1cPWFOB37YSZ
 github.com/go-openapi/jsonreference v0.20.0/go.mod h1:Ag74Ico3lPc+zR+qjn4XBUmXymS4zJbYVCZmcgkasdo=
 github.com/go-openapi/swag v0.19.5/go.mod h1:POnQmlKehdgb5mhVOsnJFsivZCEZ/vjK9gh66Z9tfKk=
 github.com/go-openapi/swag v0.19.14/go.mod h1:QYRuS/SOXUCsnplDa677K7+DxSOj6IPNl/eQntq43wQ=
-github.com/go-openapi/swag v0.21.1 h1:wm0rhTb5z7qpJRHBdPOMuY4QjVUMbF6/kwoYeRAOrKU=
-github.com/go-openapi/swag v0.21.1/go.mod h1:QYRuS/SOXUCsnplDa677K7+DxSOj6IPNl/eQntq43wQ=
+github.com/go-openapi/swag v0.22.3 h1:yMBqmnQ0gyZvEb/+KzuWZOXgllrXT4SADYbvDaXHv/g=
+github.com/go-openapi/swag v0.22.3/go.mod h1:UzaqsxGiab7freDnrUUra0MwWfN/q7tE4j+VcZ0yl14=
 github.com/go-ozzo/ozzo-validation v3.5.0+incompatible/go.mod h1:gsEKFIVnabGBt6mXmxK0MoFy+cZoTJY6mu5Ll3LVLBU=
 github.com/go-redis/redis v6.15.8+incompatible/go.mod h1:NAIEuMOZ/fxfXJIrKDQDz8wamY7mA7PouImQ2Jvg6kA=
 github.com/go-sql-driver/mysql v1.4.0/go.mod h1:zAC/RDZ24gD3HViQzih4MyKcchzm+sOG5ZlKdlhCg5w=
@@ -2151,8 +2151,9 @@ sigs.k8s.io/kustomize/api v0.11.5/go.mod h1:2UDpxS6AonWXow2ZbySd4AjUxmdXLeTlvGBC
 sigs.k8s.io/kustomize/cmd/config v0.10.6/go.mod h1:/S4A4nUANUa4bZJ/Edt7ZQTyKOY9WCER0uBS1SW2Rco=
 sigs.k8s.io/kustomize/kustomize/v4 v4.5.4/go.mod h1:Zo/Xc5FKD6sHl0lilbrieeGeZHVYCA4BzxeAaLI05Bg=
 sigs.k8s.io/kustomize/kyaml v0.13.6/go.mod h1:yHP031rn1QX1lr/Xd934Ri/xdVNG8BE2ECa78Ht/kEg=
-sigs.k8s.io/kustomize/kyaml v0.13.7 h1:/EZ/nPaLUzeJKF/BuJ4QCuMVJWiEVoI8iftOHY3g3tk=
 sigs.k8s.io/kustomize/kyaml v0.13.7/go.mod h1:6K+IUOuir3Y7nucPRAjw9yth04KSWBnP5pqUTGwj/qU=
+sigs.k8s.io/kustomize/kyaml v0.13.10 h1:htPMvrk7ZDfTDyrgXIm/2mfmcYJHEmRb6s+yCLgtNms=
+sigs.k8s.io/kustomize/kyaml v0.13.10/go.mod h1:PzDV8gSaY8mwdd7nR9zg7Pw5yh9fu8G+ElAXoQVzBq8=
 sigs.k8s.io/structured-merge-diff/v4 v4.0.2/go.mod h1:bJZC9H9iH24zzfZ/41RGcq60oK1F7G282QMXDPYydCw=
 sigs.k8s.io/structured-merge-diff/v4 v4.2.1 h1:bKCqE9GvQ5tiVHn5rfn1r+yao3aLQEaLzkkmAkf+A6Y=
 sigs.k8s.io/structured-merge-diff/v4 v4.2.1/go.mod h1:j/nl6xW8vLS49O8YvXW1ocPhZawJtm+Yrr7PPRQ0Vg4=
